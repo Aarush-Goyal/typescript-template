@@ -2,7 +2,7 @@
     "name": "typescript-template",
     "version": "1.0.0",
     "main": "index.js",
-    "license": "MIT",
+    "license": "AGPL-3.0",
     "scripts": {
         "prepare": "husky install",
         "dev": "nodemon ./src/index.ts",
