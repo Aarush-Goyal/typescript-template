@@ -11,3 +11,5 @@ tsconfig.json
 yarn.lock
 .eslintrc.js
 build
+
+commitlint.config.js
