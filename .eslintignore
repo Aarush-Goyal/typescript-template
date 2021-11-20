@@ -13,3 +13,4 @@ yarn.lock
 build
 
 commitlint.config.js
+CHANGELOG.md
