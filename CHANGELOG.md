@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/Aarush-Goyal/typescript-template/compare/v1.2.0...v1.2.1) (2021-12-19)
+
+
+### Bug Fixes
+
+* **hooks:** added formatting in the pre commit hook ([92282f8](https://github.com/Aarush-Goyal/typescript-template/commit/92282f8e78ddd642378b7b1471881c4aedf09da2))
+
+
+
 # [1.2.0](https://github.com/Aarush-Goyal/typescript-template/compare/v1.1.1...v1.2.0) (2021-12-19)
 
 
